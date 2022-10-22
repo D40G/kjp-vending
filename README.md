@@ -1,8 +1,8 @@
-# kjp-vending
+# kjp-vending:
 
 QB Core scipt for vending machines. Drag and drop!
 
-# kjp-vending
+# kDependencies:
 
 qb-target - https://github.com/qbcore-framework/qb-target
 
