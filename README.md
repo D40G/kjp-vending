@@ -2,7 +2,7 @@
 
 QB Core scipt for vending machines. Drag and drop!
 
-# kDependencies:
+# Dependencies:
 
 qb-target - https://github.com/qbcore-framework/qb-target
 
